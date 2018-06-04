@@ -12,3 +12,17 @@
 .from{
 	margin:2.25rem auto 0;
 }
+.border-radius{
+	border:{
+		radius:3px;
+		width:1px;
+		style:solid;
+		color:#222;
+	}
+}
+.margin-top-and-bottom{
+	margin:{
+		top:20px;
+		bottom:20px;
+	}
+}
